@@ -1,0 +1,9 @@
+--- Traffic Monitoring Summary ---
+Total Vehicles Counted: 3
+Vehicles Violating Speed Limit: 20
+Forward Vehicles Count: 9
+Backward Vehicles Count: 98
+
+Advice to Speed Violators:
+⚠️  Please follow speed limits to ensure road safety!
+⚠️  High speed increases the risk of accidents. Drive responsibly.
